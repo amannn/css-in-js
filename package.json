@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "workspaces": [
+    "packages/style9"
+  ],
+  "devDependencies": {
+    "eslint": "7.11.0",
+    "eslint-config-molindo": "5.0.1"
+  }
+}
