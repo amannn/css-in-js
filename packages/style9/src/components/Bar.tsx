@@ -6,6 +6,7 @@ const styles = style9.create({
   root: {
     color: 'var(--color-text)',
     backgroundColor: 'lightgrey',
+    padding: 3,
     borderWidth: 1,
     borderStyle: 'solid',
     borderColor: BLUE
