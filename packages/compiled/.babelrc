@@ -1,4 +1,4 @@
 {
-  "plugins": ["@compiled/babel-plugin-css-in-js"],
+  "plugins": ["@compiled/react/babel-plugin"],
   "presets": ["next/babel"]
 }

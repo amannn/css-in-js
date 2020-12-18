@@ -1,4 +1,4 @@
-// import '@compiled/css-in-js';
+import '@compiled/react';
 import Foo from 'components/Foo';
 
 export default function Index() {
